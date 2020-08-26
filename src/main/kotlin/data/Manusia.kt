@@ -5,4 +5,10 @@ package data
 
 class Manusia {
 
+    // properties -> didalam body class
+    var namaDepan: String = ""
+    var namaBelakang: String = ""
+
+
+
 }
